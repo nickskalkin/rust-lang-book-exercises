@@ -1,0 +1,1 @@
+/Users/nickskalkin/Projects/rust/rust-lang-book-exercises/fahrenheit_celsius/target/debug/fahrenheit_celsius.dSYM: /Users/nickskalkin/Projects/rust/rust-lang-book-exercises/fahrenheit_celsius/src/main.rs
